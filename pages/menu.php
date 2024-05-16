@@ -1,3 +1,5 @@
+<!-- Ricat Bisa Sekalian Buat kan cssnya kah Yang Simpel Aja Gak Usah terlalu rumit -->
+
 <?php
     include("datas/listmenu.php");
 ?>
