@@ -10,7 +10,7 @@
     <?php foreach($kontaks as $kontak => $link) : ?>
         <tr>
             <td><?php echo $kontak ?></td>
-            <td><a href="<?php echo $kontaks[$link]?>" class="btn btn-primary"><?php echo $link ?></a></td>
+            <td><a href="<?php echo $kontaks[$kontak]?>" class="btn btn-primary"><?php echo $link ?></a></td>
         </tr>
     <?php endforeach ?>
 </table>
