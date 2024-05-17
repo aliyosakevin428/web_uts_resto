@@ -10,7 +10,7 @@
     <style>
         .img{
             display: flex;
-            justify-content: center;
+            justify-content: end;
             align-items: center;
         }
 
