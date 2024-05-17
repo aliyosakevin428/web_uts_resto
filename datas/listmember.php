@@ -2,7 +2,7 @@
 
 $members = [
     [
-        "image" => 'assets/',
+        "image" => 'assets/my_picture/myprofilepicture.jpg',
         "name" => "Aliyosa Kevin",
         "jabatan" => "Wakil Ketua",
         "tanggal" => "08 Juni 2001"
@@ -23,7 +23,7 @@ $members = [
     ],
 
     [
-        "image" => 'assets/',
+        "image" => 'assets/my_pictures/fotonela.jpeg',
         "name" => "Naila Salsabila Maharani",
         "jabatan" => "Sekretaris",
         "tanggal" => "07 Juni 2005"
