@@ -10,6 +10,6 @@
 <body>
     <h1>about us</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic quod repellendus voluptatem ratione dolores odit atque commodi temporibus. Eligendi similique commodi iste voluptas aspernatur corrupti nemo voluptatibus natus dolor voluptates.</p>
-    <img src="assets/resto-about.jpeg" alt="assets/resto-about.jpeg">
+    <img src="assets/resto-about.jpeg" alt="assets/resto-about.jpeg" width="450px" height="350px">
 </body>
 </html>
