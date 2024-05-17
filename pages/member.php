@@ -3,7 +3,7 @@
     include("datas/listmember.php");
 ?>
 
-<h1>List Menu yang Ada Di Restoran Kami</h1>
+<h1>Jabatan Dan Anggota Pada Restoran Kami</h1>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam perferendis iure quas pariatur, neque, dolorum quasi voluptatem, culpa reprehenderit eligendi temporibus quis at nam assumenda corrupti. Ea blanditiis fugit repellat.</p>
 
 <div class="row row-cols-3">
