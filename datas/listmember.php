@@ -16,7 +16,7 @@ $members = [
     ],
 
     [
-        "image" => 'assets/',
+        "image" => 'assets/my_picture/Irunnn16.jpg',
         "name" => "Khoirun Nugraha Wida Rizanta",
         "jabatan" => "Bendahara",
         "tanggal" => "16 Agustus 2004"
