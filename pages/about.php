@@ -8,11 +8,22 @@
     <title>about</title>
 
     <style>
+        h1{
+            text-align: center;
+        }
+
         img{
             display: flex;
-            justify-content: end;
-            align-items: center;
+            justify-content: flex-end;
+            align-items: flex-end;
         }
+
+        p{
+            text-align: left;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+        }
+        
 
     </style>
 </head>
