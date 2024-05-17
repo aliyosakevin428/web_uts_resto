@@ -13,15 +13,17 @@
         }
 
         img{
-            display: flex;
-            justify-content: flex-end;
-            align-items: flex-end;
+          display: block;
+          margin-left:auto;
+          height: 350px;
+          width: 450px;
         }
 
         p{
-            text-align: left;
+            text-align:left;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             font-size: 20px;
+            
         }
         
 
