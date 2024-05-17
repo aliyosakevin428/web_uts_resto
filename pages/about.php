@@ -15,7 +15,7 @@
         img{
           display: block;
           margin-left:auto;
-          height: 350px;
+          height: 650px;
           width: 450px;
           border-radius: 10px;
           border: 5px;
@@ -25,7 +25,7 @@
             text-align:left;
             font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
             font-size: 20px;
-            
+        
         }
         
 
