@@ -8,7 +8,7 @@
 
 <div class="row row-cols-3">
 <?php 
-    foreach ($member as $member) {
+    foreach ($members as $members) {
     ?>
        <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
@@ -17,9 +17,9 @@
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title"><?php echo $member['Anggota'] ?></h5>
-        <p class="card-text"><?php echo $member['Name'] ?></p>
-        <p class="card-text"><?php echo $member['Jabatan'] ?></p>
+        <h5 class="card-title"><?php echo $member['anggota'] ?></h5>
+        <p class="card-text"><?php echo $member['name'] ?></p>
+        <p class="card-text"><?php echo $member['jabatan'] ?></p>
       </div>
     </div>
   </div>
