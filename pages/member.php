@@ -8,7 +8,7 @@
 
 <div class="row row-cols-3">
 <?php 
-    foreach ($members as $members) {
+    foreach ($members as $member) {
     ?>
        <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
