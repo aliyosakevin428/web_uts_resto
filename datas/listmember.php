@@ -8,19 +8,19 @@ $members = [
     ],
 
     [
-        "image" => 'assets/ayam-geprek_169.jpeg',   
+        "image" => 'assets/',   
         "name" => "Richard Bagus Febrian",
         "harga" => "Ketua"
     ],
 
     [
-        "image" => 'assets/sate ayam.jpg',
-        "name" => "Khoirun Nugraha Reza Widantara",
+        "image" => 'assets/',
+        "name" => "Khoirun Nugraha Wida Rizanta",
         "harga" => "Bendahara"
     ],
 
     [
-        "image" => 'assets/Nasi Goreng.jpeg',
+        "image" => 'assets/',
         "name" => "Naila Salsabila Maharani",
         "harga" => "Sekretaris"
     ]
