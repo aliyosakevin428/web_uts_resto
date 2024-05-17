@@ -17,6 +17,8 @@
           margin-left:auto;
           height: 350px;
           width: 450px;
+          border-radius: 10px;
+          border: 5px;
         }
 
         p{
