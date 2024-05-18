@@ -30,7 +30,7 @@
     <div class="container text-center">
         <div class="row">
             <?php foreach ($menus as $menu) {?>
-                <div class="col">
+                <div class="col m-3">
                     <div class="card border border-white border-3"  style="width: 18rem;">
                         <img src="<?php echo $menu['image'] ?>" class="card-img-top">
                         <div class="card-body">
