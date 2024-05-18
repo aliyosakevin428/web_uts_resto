@@ -59,6 +59,7 @@
 
   <div class="container my-4">
     <?php
+    
     $page = $_GET['page'];
 
     switch ($page) {
