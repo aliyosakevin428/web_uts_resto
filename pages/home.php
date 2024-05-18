@@ -3,13 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
+    <title>Home</title>
+    <style>
+
+        img {
+            width: 350px;
+            height: 350px;
+            border-radius: 50%;
+            align-items: center;
+        }
+
+        body {
+            background: url('assets/home.jpg') no-repeat;
+            background-size: cover;
+            background-position: center center;
+            height: 100vh;
+        }
+    </style>
 </head> 
 <body>
 
     <!-- ini tinggal ditambah apa aja yang menurutmu bagus -->
-    <h1 style="text-align: center">Selamat Datang di Web Restoran Kami</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum exercitationem esse nulla ipsa architecto dolorum aspernatur doloremque dolore iure velit saepe maxime cupiditate commodi repellat, suscipit nemo adipisci iste cum.</p>
+
+    <div class="text-center">
+        <img src="/assets/logo.jpg" alt="">
+        <h1>Selamat Datang di Web Restoran Kami</h1>
+        <a href="" class="btn"> GO!!!</a>
+    </div>
 
 </body>
 </html>

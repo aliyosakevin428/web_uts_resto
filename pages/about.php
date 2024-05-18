@@ -6,36 +6,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>about</title>
-
-    <style>
-        h1{
-            text-align: center;
-        }
-
-        img{
-          display: block;
-          margin-left:auto;
-          height: 650px;
-          width: 450px;
-          border-radius: 10px;
-          border: 5px;
-        }
-
-        p{
-            text-align:left;
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-            font-size: 20px;
-        
-        }
-        
-
-    </style>
+        <style>
+            img {
+                aspect-ratio: 16/9;
+                width: 500px;
+                height: 300px;
+                object-fit: cover;
+                border-radius: 10%;
+            }
+        </style>
 </head>
 <body>
-
-    <h1>about us</h1> <br>
-    <img src="assets/resto-about.jpeg" alt="assets/resto-about.jpeg" width="450px" height="350px">
-    <p text-align="right"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere quaerat, ea assumenda cum explicabo debitis voluptate eos pariatur! Minima, magnam porro perspiciatis in asperiores voluptates adipisci exercitationem fuga, autem dolores mollitia ut ullam! Quidem illum tempore dicta consectetur velit, aperiam tenetur commodi provident autem ullam alias consequatur sint distinctio? Nesciunt?</p>
+    
+    <h1 class="text-center">About Us</h1>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="card-body">
+                            <img class="float-start m-5" src="assets/resto-about.jpeg">
+                            <div class="card-text ">
+                                <p class="card-text text-start p-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam reiciendis ex aliquam, pariatur dolore aspernatur vero quam a est quos? Quae necessitatibus mollitia alias commodi. Fugit deserunt officiis fugiat molestiae. Quasi soluta, blanditiis aperiam voluptatum optio labore obcaecati! Possimus hic quaerat corrupti eius est fuga recusandae, quasi voluptatibus quo ab sapiente similique reiciendis, nihil voluptates obcaecati odio! Fuga optio magnam ipsum quae perferendis vitae velit quasi neque dignissimos iusto minus debitis, natus, iure hic quam consectetur cum sapiente eos? Repellendus distinctio quisquam vitae pariatur, fugiat et obcaecati quasi itaque veniam eveniet voluptatem quo ipsam inventore quibusdam? Doloremque quasi fugit enim.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 ">
+                        <div class="card-body">
+                            <img class="float-end m-5" src="/assets/about.jpg">
+                            <div class="card-text">
+                                <p class="card-text text-start p-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam reiciendis ex aliquam, pariatur dolore aspernatur vero quam a est quos? Quae necessitatibus mollitia alias commodi. Fugit deserunt officiis fugiat molestiae. Quasi soluta, blanditiis aperiam voluptatum optio labore obcaecati! Possimus hic quaerat corrupti eius est fuga recusandae, quasi voluptatibus quo ab sapiente similique reiciendis, nihil voluptates obcaecati odio! Fuga optio magnam ipsum quae perferendis vitae velit quasi neque dignissimos iusto minus debitis, natus, iure hic quam consectetur cum sapiente eos? Repellendus distinctio quisquam vitae pariatur, fugiat et obcaecati quasi itaque veniam eveniet voluptatem quo ipsam inventore quibusdam? Doloremque quasi fugit enim.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 ">
+                        <div class="card-body">
+                            <img class="float-start m-5" src="assets/about1.jpg">
+                            <div class="card-text">
+                                <p class="card-text text-start p-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam reiciendis ex aliquam, pariatur dolore aspernatur vero quam a est quos? Quae necessitatibus mollitia alias commodi. Fugit deserunt officiis fugiat molestiae. Quasi soluta, blanditiis aperiam voluptatum optio labore obcaecati! Possimus hic quaerat corrupti eius est fuga recusandae, quasi voluptatibus quo ab sapiente similique reiciendis, nihil voluptates obcaecati odio! Fuga optio magnam ipsum quae perferendis vitae velit quasi neque dignissimos iusto minus debitis, natus, iure hic quam consectetur cum sapiente eos? Repellendus distinctio quisquam vitae pariatur, fugiat et obcaecati quasi itaque veniam eveniet voluptatem quo ipsam inventore quibusdam? Doloremque quasi fugit enim.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 ">
+                        <div class="card-body">
+                            <img class="float-end m-5" src="assets/about3.jpg">
+                            <div class="card-text">
+                                <p class="card-text text-start p-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam reiciendis ex aliquam, pariatur dolore aspernatur vero quam a est quos? Quae necessitatibus mollitia alias commodi. Fugit deserunt officiis fugiat molestiae. Quasi soluta, blanditiis aperiam voluptatum optio labore obcaecati! Possimus hic quaerat corrupti eius est fuga recusandae, quasi voluptatibus quo ab sapiente similique reiciendis, nihil voluptates obcaecati odio! Fuga optio magnam ipsum quae perferendis vitae velit quasi neque dignissimos iusto minus debitis, natus, iure hic quam consectetur cum sapiente eos? Repellendus distinctio quisquam vitae pariatur, fugiat et obcaecati quasi itaque veniam eveniet voluptatem quo ipsam inventore quibusdam? Doloremque quasi fugit enim.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 </body>
 </html>
