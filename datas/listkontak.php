@@ -1,8 +1,8 @@
 <?php 
 
 $kontaks = [
-    'facebook' => 'https://www.facebook.com',
-    'instagram' => 'https://www.instagram.com',
-    'youtube' => 'https://www.youtube.com',
-    'email' => 'https://www.mail.google.com',
+    'Facebook' => 'https://www.facebook.com',
+    'Instagram' => 'https://www.instagram.com',
+    'Youtube' => 'https://www.youtube.com',
+    'E-mail' => 'https://www.mail.google.com',
 ];
