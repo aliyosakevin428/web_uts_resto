@@ -4,7 +4,7 @@ $menus = [
     [
         "image" => 'assets/ayam bakar.jpg',
         "name" => "Ayam Bakar",
-        "harga" => "Rp. 27.000"
+        "harga" => "Rp. 30.000"
     ],
 
     [
@@ -35,5 +35,23 @@ $menus = [
         "image" => 'assets/es-soda-gembira-foto-resep-utama.jpg',
         "name" => "Soda Gembira",
         "harga" => "Rp. 18.000"
-    ]
+    ],
+
+    [
+        "image" => 'assets/sandwich.jpg',
+        "name" => "Sandwich Special",
+        "harga" => "Rp. 25.000"
+    ],
+
+    [
+        "image" => 'assets/Caffe_Latte.jpg',
+        "name" => "Caffe Latte",
+        "harga" => "Rp. 20.000"
+    ],
+
+    [
+        "image" => 'assets/teh tarik2.jpeg',
+        "name" => "Teh Tarik",
+        "harga" => "Rp. 15.000"
+    ],
 ];
